@@ -10,7 +10,7 @@
 // homepage      https://gist.github.com/abearxiong/dab578c4c075993c16757f774ab09927/
 // @author       Abearxiong
 // @updateURL    https://gist.github.com/abearxiong/dab578c4c075993c16757f774ab09927/raw/7017d54ae01e4475a64ea6af82d23e5d7732beb7/new-web.gists.decoration.user.js
-// updateURL
+// updateURL     https://github.com/abearxiong/web-gists-decoration/raw/master/web.gists.decoration.user.js
 // @supportURL   https://github.com/abearxiong/web-gists-decoration/issues
 // @match        https://gist.github.com/*
 // grant         none
