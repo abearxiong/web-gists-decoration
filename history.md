@@ -5,4 +5,4 @@
 
 bug：
 1. 编辑页面，第一个增加的文件。JQuery获取不到。第二个可以。
-![show 1.0.0 gif](https://github.com/abearxiong/web-gists-decoration/raw/master/histroy/1.0.0.gif)
+![show 1.0.0 gif](https://raw.githubusercontent.com/abearxiong/web-gists-decoration/master/history/1.0.0.gif)
